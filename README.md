@@ -9,7 +9,13 @@ Me chamo João Arthur Mendes Nunes, tenho 18 anos e sou natural de Goiânia. Ens
          <img alt="Seguidores" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/JoaoArt2311?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white"/></a>
       <a href="https://github.com/JoaoArt2311?tab=repositories&sort=stargazers">
          <img alt="Estrelas" title="Total de Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JoaoArt2311?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+  <a href="https://www.instagram.com/njoaoarthur_23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaoarthurmendesnunes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-arthur-mendes-nunes-872432324/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
    </p>
+
 
 ---
 
