@@ -63,5 +63,3 @@ Me chamo João Arthur Mendes Nunes, tenho 18 anos e sou natural de Goiânia. Ens
     width="300px"
     style="padding-right: 10px"
 />
-
-![Snake animation](https://github.com/JoaoArt2311)
