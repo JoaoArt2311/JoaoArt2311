@@ -64,6 +64,6 @@ Me chamo João Arthur Mendes Nunes, tenho 18 anos e sou natural de Goiânia. Ens
     style="padding-right: 10px ;  margin-top: 30px;"
 />
 
-<p align="center">
+<p align="center" style = margin-top: 30px;>
   <img src= 7100_4_10.jpg width=400 ; margin-top: 30px;>
 </p>
