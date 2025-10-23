@@ -62,6 +62,7 @@ Me chamo João Arthur Mendes Nunes, tenho 18 anos e sou natural de Goiânia. Ens
     alt="GitHub Stats"
     width="300px"
     style="padding-right: 10px"
+    style= margin-top: 30px;
 />
 
 <p align="center">
