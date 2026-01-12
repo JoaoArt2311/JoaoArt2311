@@ -49,25 +49,7 @@ Me chamo João Arthur Mendes Nunes, tenho 18 anos e sou natural de Goiânia. Ens
 </br>
 
 ### 👾 Estatísticas
-<img
-     src="https://github-readme-stats.vercel.app/api?username=JoaoArt2311&show_icons=true&theme=dark&locale=pt-br"
-     align="left"
-    alt="GitHub Stats"
-    width="300px"
-  style="padding-right: 10px"
-/>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoArt2311&theme=dark&layout=compact&custom_title=Tecnologias"
-     align="left"
-    alt="GitHub Stats"
-    width="300px"
-    style="padding-right: 10px"
-/>
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=JoaoArt2311&https://github.com/JoaoArt2311/github-readme-stats"
-  />
- 
  <p align="center" style = margin: 30px;>
   <img src= "cute-cat-hacker-operando-laptop-cartoon-vector-icone-ilustracao-icone-de-tecnologia-animal-isolado.png"; width: 350px; margin-top: 30px;>
 </p>
