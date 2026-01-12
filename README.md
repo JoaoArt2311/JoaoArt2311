@@ -63,7 +63,11 @@ Me chamo João Arthur Mendes Nunes, tenho 18 anos e sou natural de Goiânia. Ens
     width="300px"
     style="padding-right: 10px"
 />
+
+ <img 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoArt2311)](https://github.com/JoaoArt2311/github-readme-stats)
+ />
+ 
  <p align="center" style = margin: 30px;>
   <img src= "cute-cat-hacker-operando-laptop-cartoon-vector-icone-ilustracao-icone-de-tecnologia-animal-isolado.png"; width: 350px; margin-top: 30px;>
 </p>
