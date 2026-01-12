@@ -64,11 +64,8 @@ Me chamo João Arthur Mendes Nunes, tenho 18 anos e sou natural de Goiânia. Ens
     style="padding-right: 10px"
 />
 
- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoArt2311)](https://github.com/JoaoArt2311/github-readme-stats)
-
 <img
-    src="https://github-readme-stats.vercel.app/api?username=JoaoArt2311 https://github.com/JoaoArt2311/github-readme-stats"
+    src="https://github-readme-stats.vercel.app/api?username=JoaoArt2311&https://github.com/JoaoArt2311/github-readme-stats"
   />
  
  <p align="center" style = margin: 30px;>
