@@ -9,7 +9,7 @@
 **`Desenvolvedor Front-End`**
 ###
 
-<p align="left">Meu nome é João Arthur Mendes</p>
+<p align="left">Meu nome é João Arthur Mendes Nunes</p>
 
 ###
 
